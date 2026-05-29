@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#14b8a6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="400" fill="#0f172a"/>
+  <rect x="40" y="40" width="1120" height="320" rx="24" ry="24" fill="url(#grad)" opacity="0.95"/>
+  <text x="100" y="160" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="700">SMCC-CCIS Week 2025</text>
+  <text x="100" y="230" fill="#f8fafc" font-family="Segoe UI, Arial, sans-serif" font-size="32">Explore Innovation, Coding, &amp; Community 🎓</text>
+  <text x="100" y="310" fill="#e2e8f0" font-family="Segoe UI, Arial, sans-serif" font-size="22">April 14-18 · Saint Michael College of Caraga · Nasipit, Agusan del Norte</text>
+</svg>
